@@ -3,6 +3,7 @@
 ## Versions
 
 firebase-tools v13.13.0<br>
+platform: macOS Sonoma 14.5<br>
 node: v20.12.2<br>
 Google Cloud SDK 483.0.0<br>
 bq 2.1.6<br>
